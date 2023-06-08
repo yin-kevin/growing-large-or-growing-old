@@ -1,0 +1,4 @@
+Changed:
+
+1. any time 21 appeared, changed it to 14 (because only 14 years in the sample)
+2. 
